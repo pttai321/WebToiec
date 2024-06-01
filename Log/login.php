@@ -1,6 +1,6 @@
 <?php
 // Kết nối cơ sở dữ liệu
-require_once 'C:\SOFT\xampp\htdocs\WebToiec\Database\connectDBtructiep.php';
+require_once '..\Database\connectDBtructiep.php';
 
 session_start();
 
